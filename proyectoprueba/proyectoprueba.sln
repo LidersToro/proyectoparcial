@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCprueba", "MVCprueba\MVCprueba.csproj", "{B10A2CB0-E800-48DD-BC5A-72608712CACC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIprueba", "APIprueba\APIprueba.csproj", "{C6F74B21-FF0B-4023-B1CC-FE91D71F7952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B10A2CB0-E800-48DD-BC5A-72608712CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B10A2CB0-E800-48DD-BC5A-72608712CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B10A2CB0-E800-48DD-BC5A-72608712CACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F74B21-FF0B-4023-B1CC-FE91D71F7952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F74B21-FF0B-4023-B1CC-FE91D71F7952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F74B21-FF0B-4023-B1CC-FE91D71F7952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F74B21-FF0B-4023-B1CC-FE91D71F7952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
